@@ -8,7 +8,7 @@ sudo chmod -R 777 /home/buildbot
 
 cd /home/buildbot/tools
 
-wget -O wiiu.tar.xz 'https://github.com/libretro/libretro-toolchains/blob/master/wiiu.tar.xz?raw=true'
+wget -O wiiu.tar.xz 'https://github.com/alfrix/libretro-toolchains/blob/master/wiiu.tar.xz?raw=true'
 
 tar Jkxf wiiu.tar.xz
 
